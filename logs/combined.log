@@ -1,0 +1,416 @@
+2023-02-27T08:58:42.108Z info: Server listening at http://localhost:3001
+2023-02-27T08:58:45.555Z info: /notes - ::1 - All notes retrieved
+2023-02-27T08:58:45.618Z info: /notes - ::1 - All notes retrieved
+2023-02-27T08:59:27.494Z info: Server listening at http://localhost:3001
+2023-02-27T08:59:35.536Z info: /notes - ::1 - All notes retrieved
+2023-02-27T08:59:35.569Z info: /notes - ::1 - All notes retrieved
+2023-02-27T08:59:39.903Z info: /note - ::1 - Data sucessfully saved
+2023-02-27T08:59:41.030Z info: /notes - ::1 - All notes retrieved
+2023-02-27T08:59:41.044Z info: /notes - ::1 - All notes retrieved
+2023-02-27T08:59:54.523Z info: /note - ::1 - Data sucessfully saved
+2023-02-27T08:59:55.965Z info: /notes - ::1 - All notes retrieved
+2023-02-27T08:59:55.982Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:22:53.873Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:22:53.882Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:48:09.626Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:48:09.641Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:51:23.792Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:51:23.803Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:55:15.089Z info: /notes - ::1 - All notes retrieved
+2023-02-27T09:55:42.761Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:06:07.714Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:06:07.725Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:06:08.550Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:06:08.564Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:09:12.743Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:09:12.776Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:13:05.114Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:13:05.137Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:13:36.807Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:13:36.822Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:13:39.461Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:13:39.486Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:29.521Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:29.531Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:31.635Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:31.644Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:36.909Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:36.918Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:45.939Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:15:45.957Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:22:34.605Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:22:34.622Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:23:03.598Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:23:03.606Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:24:05.832Z info: /notes - ::1 - All notes retrieved
+2023-02-27T10:24:05.838Z info: /notes - ::1 - All notes retrieved
+2023-02-27T16:27:16.955Z info: Server listening at http://localhost:3001
+2023-02-27T16:27:51.376Z info: /notes - ::1 - All notes retrieved
+2023-02-27T16:27:51.404Z info: /notes - ::1 - All notes retrieved
+2023-02-27T16:47:50.522Z info: /notes - ::1 - All notes retrieved
+2023-02-27T16:47:50.535Z info: /notes - ::1 - All notes retrieved
+2023-02-27T16:59:54.944Z info: /notes - ::1 - All notes retrieved
+2023-02-27T16:59:54.955Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:01:59.257Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:01:59.284Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:02:56.540Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:02:56.550Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:15:50.713Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:15:50.727Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:15:54.407Z error: /note - ::1 - title is missing 
+2023-02-27T17:15:54.411Z error: /note - ::1 - Error: Title is empty
+2023-02-27T17:15:59.768Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:15:59.773Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:17:02.527Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:17:02.535Z info: /notes - ::1 - All notes retrieved
+2023-02-27T17:17:06.880Z error: /note - ::1 - title is missing 
+2023-02-27T17:17:06.882Z error: /note - ::1 - Error: Title is empty
+2023-02-27T17:17:14.310Z error: /note - ::1 - title is missing 
+2023-02-27T17:17:14.312Z error: /note - ::1 - Error: Title is empty
+2023-02-27T17:17:25.426Z error: /note - ::1 - title is missing 
+2023-02-27T17:17:25.429Z error: /note - ::1 - Error: Title is empty
+2023-02-27T17:17:30.560Z error: /note - ::1 - title is missing 
+2023-02-27T17:17:30.562Z error: /note - ::1 - Error: Title is empty
+2023-02-27T17:17:34.933Z error: /note - ::1 - title is missing 
+2023-02-27T17:17:34.935Z error: /note - ::1 - Error: Title is empty
+2023-02-27T18:01:57.321Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:06:44.269Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:07:01.152Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:08:35.583Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:09:07.650Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:09:21.051Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:09:54.077Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:10:47.494Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:11:03.289Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:11:17.090Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:11:47.188Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:12:12.466Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:12:29.421Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:12:49.073Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:16:14.759Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:20:26.746Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:20:42.678Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:21:07.249Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:21:40.220Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:21:52.221Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:22:43.423Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:28:52.254Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:28:56.868Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:29:03.427Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:29:07.439Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:31:51.712Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:32:43.655Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:33:09.813Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:33:16.824Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:33:25.553Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:33:26.936Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:33:52.382Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:34:26.799Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:34:34.500Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:34:39.219Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:34:41.160Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:34:57.386Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:35:02.552Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:35:03.675Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:35:07.232Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:35:08.373Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:35:18.320Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:35:41.542Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:35:45.373Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:35:56.114Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:35:57.491Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:36:04.997Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:36:06.297Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:36:15.374Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:36:15.622Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:36:20.615Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:36:22.090Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:36:52.620Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:36:55.732Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:37:08.140Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:37:18.061Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:37:24.780Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:37:27.605Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:37:29.030Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:37:58.741Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:38:07.202Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:38:10.663Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:38:11.925Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:38:29.841Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:38:42.471Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:38:47.180Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:38:48.843Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:39:00.492Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:39:05.913Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T18:39:07.628Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:41:00.128Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:43:06.824Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:43:32.665Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:45:02.649Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:49:04.200Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:50:03.928Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:50:33.148Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:53:22.846Z info: /notes - ::1 - All notes retrieved
+2023-02-27T18:54:11.227Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:46:37.526Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:50:58.665Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:51:13.218Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-27T23:51:14.571Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:52:14.718Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:52:29.707Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:52:33.936Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:52:35.540Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-27T23:52:39.409Z info: /note/63fcf8c9d4803bd87e85d171 - ::1 - Note retrieved
+2023-02-27T23:52:45.498Z info: /note/63fcf8c9d4803bd87e85d171 - ::1 - Data successfully updated
+2023-02-27T23:52:47.033Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:54:30.967Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:54:40.712Z info: /notes - ::1 - All notes retrieved
+2023-02-27T23:55:01.316Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-27T23:57:29.346Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-27T23:57:50.636Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-27T23:58:49.592Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:00:55.212Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:01:41.957Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:02:04.028Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:02:05.553Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:02:41.615Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:02:58.781Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:03:32.493Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:04:28.231Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:04:33.127Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:04:47.804Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:05:36.618Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:07:23.947Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:07:38.974Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:08:50.533Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:09:39.859Z info: /note/63fc70fb3507e56367061615 - ::1 - Note retrieved
+2023-02-28T00:11:22.982Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:11:54.710Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:01.256Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:07.339Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:12.101Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:20.198Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:40.965Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:46.553Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:46.953Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:13:56.237Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:14:14.033Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:14:37.226Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:15:01.717Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:15:05.995Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:15:10.456Z info: /note/63fcf7d6d4803bd87e85d167 - ::1 - Data successfully updated
+2023-02-28T00:15:11.801Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:15:18.714Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:16:52.164Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:17:17.473Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:17:40.472Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:18:22.599Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:18:27.165Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:18:30.858Z error: /note/[object%20Object] - ::1 - BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2023-02-28T00:18:30.903Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:19:00.318Z error: /note/[object%20Object] - ::1 - BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2023-02-28T00:19:00.364Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:19:03.822Z error: /note/[object%20Object] - ::1 - BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2023-02-28T00:19:03.862Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:19:13.764Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:20:32.443Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:20:39.768Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:20:43.095Z error: /note/[object%20Object] - ::1 - BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2023-02-28T00:20:43.143Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:21:34.740Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:22:16.540Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:25:36.592Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:25:54.443Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:26:05.785Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:26:16.772Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:26:38.541Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:26:41.287Z error: /note/[object%20Object] - ::1 - BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2023-02-28T00:26:41.356Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:11.511Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:15.223Z error: /note/[object%20Object] - ::1 - BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+2023-02-28T00:28:15.297Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:20.004Z info: /note/63fc70fb3507e56367061615 - ::1 - Data successfully updated
+2023-02-28T00:28:22.018Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:47.197Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:48.316Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:51.673Z info: /note/63fd41f1d17f4a8a13fde9f3 - ::1 - Data successfully deleted
+2023-02-28T00:28:51.725Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:54.930Z info: /note/63fcf8c9d4803bd87e85d171 - ::1 - Data successfully deleted
+2023-02-28T00:28:54.976Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:57.170Z info: /note/63fcf8b7d4803bd87e85d170 - ::1 - Data successfully deleted
+2023-02-28T00:28:57.217Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:28:59.560Z info: /note/63fcf892d4803bd87e85d16f - ::1 - Data successfully deleted
+2023-02-28T00:28:59.601Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:02.074Z info: /note/63fcf867d4803bd87e85d16e - ::1 - Data successfully deleted
+2023-02-28T00:29:02.117Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:04.277Z info: /note/63fcf844d4803bd87e85d16d - ::1 - Data successfully deleted
+2023-02-28T00:29:04.318Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:06.606Z info: /note/63fcf824d4803bd87e85d16c - ::1 - Data successfully deleted
+2023-02-28T00:29:06.651Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:08.482Z info: /note/63fcf814d4803bd87e85d16b - ::1 - Data successfully deleted
+2023-02-28T00:29:08.525Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:11.003Z info: /note/63fcf80cd4803bd87e85d16a - ::1 - Data successfully deleted
+2023-02-28T00:29:11.046Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:13.017Z info: /note/63fcf7dbd4803bd87e85d169 - ::1 - Data successfully deleted
+2023-02-28T00:29:13.059Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:15.595Z info: /note/63fcf7d7d4803bd87e85d168 - ::1 - Data successfully deleted
+2023-02-28T00:29:15.641Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:17.757Z info: /note/63fcf7d6d4803bd87e85d167 - ::1 - Data successfully deleted
+2023-02-28T00:29:17.798Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:19.952Z info: /note/63fcf7bfd4803bd87e85d166 - ::1 - Data successfully deleted
+2023-02-28T00:29:19.999Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:21.991Z info: /note/63fcf775d4803bd87e85d165 - ::1 - Data successfully deleted
+2023-02-28T00:29:22.037Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:23.904Z info: /note/63fcf765d4803bd87e85d164 - ::1 - Data successfully deleted
+2023-02-28T00:29:23.948Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:25.824Z info: /note/63fcf74bd4803bd87e85d163 - ::1 - Data successfully deleted
+2023-02-28T00:29:25.870Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:28.012Z info: /note/63fc710a3507e56367061616 - ::1 - Data successfully deleted
+2023-02-28T00:29:28.060Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:29:29.754Z info: /note/63fc70fb3507e56367061615 - ::1 - Data successfully deleted
+2023-02-28T00:29:29.794Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:30:19.512Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-28T00:30:21.963Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:38:29.176Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:38:57.639Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:43:42.320Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:43:52.756Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:46:27.381Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:46:38.266Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:46:53.767Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:46:56.852Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:51:14.839Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:56:40.893Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:57:17.334Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:57:39.160Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:58:08.242Z info: /notes - ::1 - All notes retrieved
+2023-02-28T00:59:01.774Z info: /notes - ::1 - All notes retrieved
+2023-02-28T08:07:33.217Z info: /notes - ::1 - All notes retrieved
+2023-02-28T08:11:34.907Z info: /notes - ::1 - All notes retrieved
+2023-02-28T08:21:16.779Z info: /notes - ::1 - All notes retrieved
+2023-02-28T08:58:25.075Z info: /notes - ::1 - All notes retrieved
+2023-02-28T08:58:36.412Z info: /notes - ::1 - All notes retrieved
+2023-02-28T08:58:46.971Z error: /note - ::1 - title is missing 
+2023-02-28T08:58:46.973Z error: /note - ::1 - Error: Title is empty
+2023-02-28T08:59:16.256Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:07:27.579Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:07:34.061Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-28T09:07:38.793Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:11:23.234Z error: /note - ::1 - title is missing 
+2023-02-28T09:11:23.237Z error: /note - ::1 - Error: Title is empty
+2023-02-28T09:11:25.144Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:11:52.051Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:12:06.320Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:13:09.261Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:15:46.055Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-28T09:15:47.215Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:24:49.519Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-28T09:24:50.960Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:26:20.896Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:27:54.804Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:29:26.294Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:29:57.986Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:31:22.409Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:31:26.233Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:31:35.488Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:32:56.079Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:33:53.805Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:33:57.911Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:34:33.800Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:34:51.128Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:34:54.377Z info: /note/63fdc861d17f4a8a13fde9f7 - ::1 - Data successfully updated
+2023-02-28T09:34:55.991Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:11.178Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:13.263Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:16.444Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:22.343Z info: /note/63fd4b1bd17f4a8a13fde9f4 - ::1 - Data successfully updated
+2023-02-28T09:35:24.153Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:29.540Z info: /note/63fdc642d17f4a8a13fde9f6 - ::1 - Data successfully updated
+2023-02-28T09:35:31.003Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:36.908Z info: /note/63fdc861d17f4a8a13fde9f7 - ::1 - Data successfully deleted
+2023-02-28T09:35:36.974Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:39.707Z info: /note/63fdc642d17f4a8a13fde9f6 - ::1 - Data successfully deleted
+2023-02-28T09:35:39.764Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:41.636Z info: /note/63fd4b1bd17f4a8a13fde9f4 - ::1 - Data successfully deleted
+2023-02-28T09:35:41.688Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:43.892Z info: /note/63fdc456d17f4a8a13fde9f5 - ::1 - Data successfully deleted
+2023-02-28T09:35:43.958Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:35:56.004Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-28T09:35:57.986Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:36:32.597Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:41:23.473Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:44:18.531Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:44:47.101Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:45:15.648Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-28T09:45:17.100Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:45:24.876Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-02-28T09:45:26.312Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:45:29.579Z info: /note/63fdcafcd17f4a8a13fde9f8 - ::1 - Data successfully deleted
+2023-02-28T09:45:29.632Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:45:43.122Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:46:00.679Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:46:43.920Z info: /notes - ::1 - All notes retrieved
+2023-02-28T09:47:07.622Z info: /notes - ::1 - All notes retrieved
+2023-03-01T11:24:04.346Z info: /notes - ::1 - All notes retrieved
+2023-03-01T11:29:53.304Z info: /notes - ::1 - All notes retrieved
+2023-03-01T11:30:19.804Z info: /notes - ::1 - All notes retrieved
+2023-03-01T11:31:49.499Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:30:46.459Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:31:20.109Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:31:51.766Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:33:15.889Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:33:55.695Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:34:20.237Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:35:24.051Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:35:53.445Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:36:28.231Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:36:45.801Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:37:11.900Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:55:07.959Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:55:35.546Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:56:24.344Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:57:57.129Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:58:12.512Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:58:47.215Z info: /notes - ::1 - All notes retrieved
+2023-03-01T15:59:57.161Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:00:09.205Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:05:40.489Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:06:51.503Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:07:23.771Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:08:45.254Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:09:16.641Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:09:28.706Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:09:47.980Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:10:02.138Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:10:02.658Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:10:31.316Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:10:55.031Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:15:44.324Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:15:49.502Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:16:03.034Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:16:32.671Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:17:16.316Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:17:28.769Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:17:50.501Z error: /note - ::1 - SyntaxError: Unexpected token o in JSON at position 1
+2023-03-01T16:17:52.144Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:18:24.620Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:18:59.057Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:20:00.960Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:20:10.378Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:21:38.568Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:22:50.424Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:23:59.968Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:24:05.158Z info: /note/63fdcd34d17f4a8a13fde9fa - ::1 - Data successfully updated
+2023-03-01T16:24:06.362Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:24:09.760Z info: /note/63fdcd2bd17f4a8a13fde9f9 - ::1 - Data successfully updated
+2023-03-01T16:24:11.000Z info: /notes - ::1 - All notes retrieved
+2023-03-01T16:24:17.866Z info: /note/63ff7aaed48d1013d227d636 - ::1 - Data successfully updated
+2023-03-01T16:24:18.859Z info: /notes - ::1 - All notes retrieved
+2023-03-02T16:57:24.418Z info: /notes - ::1 - All notes retrieved
+2023-03-02T16:58:53.643Z info: /note/63fdcd2bd17f4a8a13fde9f9 - ::1 - Note retrieved
+2023-03-02T17:51:33.467Z info: /notes - ::1 - All notes retrieved
+2023-03-02T17:56:02.260Z info: /notes - ::1 - All notes retrieved
+2023-03-02T17:56:17.090Z info: /notes - ::1 - All notes retrieved
+2023-03-02T17:56:43.054Z info: /notes - ::1 - All notes retrieved
+2023-03-02T17:56:45.806Z info: /notes - ::1 - All notes retrieved
+2023-03-02T17:59:51.609Z info: /notes - ::1 - All notes retrieved
