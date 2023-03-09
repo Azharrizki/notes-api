@@ -8,7 +8,7 @@ let db;
 
 exports.connect = (callback) => {
     client.connect((err, client) => {
-        db = client.db(dbName);
+        db = client.db(dbName)
         return callback(err, client)
     })
 }
